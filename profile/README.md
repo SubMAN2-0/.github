@@ -1,5 +1,5 @@
-# SubMAN
-SubMAN is a cross-platform subscription manager designed to simplify subscription management for users across different devices and platforms.
+# SUBMAN
+SUBMAN is a cross-platform subscription manager designed to simplify subscription management for users across different devices and platforms.
 
 Visit our website at [subman.app](https://subman.app) for more information and updates.
 
